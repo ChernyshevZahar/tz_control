@@ -2,21 +2,25 @@
 
 Задача 1 
 
-![image desc]("C:\Users\Захар\Desktop\tz_control\Git Push\tz_control\Скрины\задача 1.png")
+![задача 1](https://github.com/user-attachments/assets/3c03dc76-1255-4b5d-bee1-64ae15a488be)
+
 
 Задача 2 
 
-![image desc]("C:\Users\Захар\Desktop\tz_control\Git Push\tz_control\Скрины\задача 2.png")
+![задача 2](https://github.com/user-attachments/assets/8d64a274-1fc6-4588-bd1e-0fa533fdef5b)
+
 
 
 Задача 3 
 
-![image desc]("C:\Users\Захар\Desktop\tz_control\Git Push\tz_control\Скрины\задача 3.1.png")
-![image desc]("C:\Users\Захар\Desktop\tz_control\Git Push\tz_control\Скрины\задача 3.2.png")
+![задача 3 1](https://github.com/user-attachments/assets/5fc9924f-f858-4220-98cc-85a2ac0d72a6)
+![задача 3 2](https://github.com/user-attachments/assets/71eb2fe8-d4a4-4e18-84f8-545c72a34767)
+
 
 Задача 4  
 
-![image desc]("C:\Users\Захар\Desktop\tz_control\Git Push\tz_control\Скрины\задача 4.png")
+![задача 4](https://github.com/user-attachments/assets/b5cc951f-b639-4689-9ee2-b07891c42b7d)
+
 
 
 Задача 5 
