@@ -62,4 +62,4 @@ sudo dpkg -r docker-ce-cli
 
 Задача 6 
 
-![задача 6]("C:\Users\Захар\Desktop\tz_control\push\tz_control\Скрины\задача 6.png")
+![задача 6](https://github.com/user-attachments/assets/8fc68a1a-2b73-47db-aa59-3c12fbfe40de)
