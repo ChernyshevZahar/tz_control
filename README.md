@@ -58,3 +58,8 @@ sudo apt-get install mysql-server
 sudo wget https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb
 sudo dpkg -i docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb
 sudo dpkg -r docker-ce-cli
+
+
+Задача 6 
+
+![задача 6]("C:\Users\Захар\Desktop\tz_control\push\tz_control\Скрины\задача 6.png")
